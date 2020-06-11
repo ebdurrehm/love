@@ -1,0 +1,49 @@
+body {
+background: green;
+
+}
+
+li {
+
+padding-left:20%;
+}
+#love{
+
+padding-left:50%;}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+#cd {
+text-align: center;
+  font-size: 35px;
+  margin-top: 0px;
+}
+
+#dem {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+#count {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+#hours {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+#minutes {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+}
